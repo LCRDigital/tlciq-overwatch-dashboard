@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663837456668",
+    "project_id": "t-l-ci-q-o3zvss",
+    "storage_bucket": "t-l-ci-q-o3zvss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663837456668:android:20323df972bb8f807122d9",
+        "android_client_info": {
+          "package_name": "com.lucasricardo.tlciq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663837456668-9e414ddtdv8f8mh17664hqe0vk1g70ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnWv8_or_ytmrU5XiF_vs3Kp5LTV7qd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663837456668-9e414ddtdv8f8mh17664hqe0vk1g70ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
